@@ -1,0 +1,29 @@
+{
+  "name": "httpstatus",
+  "author": "Ariel Flesler <aflesler@gmail.com>",
+  "version": "1.0.0",
+  "description": "HTTP status class for NodeJS",
+  "main": "./index.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/flesler/node-http-status.git"
+  },
+  "keywords": [
+    "http",
+    "status",
+    "codes",
+    "class",
+    "express",
+    "middleware",
+    "request",
+    "node"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flesler/node-http-status/issues"
+  },
+  "scripts": {
+    "test": "node test/index"
+  }
+}
