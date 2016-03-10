@@ -5,6 +5,11 @@
   "description": "HTTP status class for NodeJS",
   "main": "./index.js",
   "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-jasmine-nodejs": "^1.4.3"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/flesler/node-http-status.git"
